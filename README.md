@@ -1,5 +1,20 @@
 # weather-Dashboard
 
+<p align="center">
+    <img src="https://img.shields.io/github/repo-size/Dkallen117/weather-Dashboard" />
+    <img src="https://img.shields.io/github/languages/top/Dkallen117/weather-Dashboard"  />
+    <img src="https://img.shields.io/github/issues/Dkallen117/weather-Dashboard" />
+    <img src="https://img.shields.io/github/last-commit/Dkallen117/weather-Dashboard" >
+</p>
+  
+<p align="center">
+    <img src="https://img.shields.io/badge/Javascript-yellow" />
+    <img src="https://img.shields.io/badge/HTML-blue" />
+    <img src="https://img.shields.io/badge/MDBoostrap-green" />
+    <img src="https://img.shields.io/badge/CSS-orange" />
+ 
+</p>
+
 ## Description
 
 For this assignment, I was tasked with creating a weather dashboard that would pull data from a specific API and display that data on the page, depending on what city the user searched. This assignment helped me to better understand how data is grabbed from whatever source and rendered on the page and how it can then update dynamically (searching for another city). For the basic design, I added a current forecast section and a 5-day upcoming forecast section. This, in turn, will provide the user enough data to help plan their daily outings around the weather.
