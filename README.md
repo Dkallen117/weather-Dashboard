@@ -39,7 +39,7 @@ For this assignment, I was tasked with creating a weather dashboard that would p
 
 ## Installation ⚙️
 
-This application functions off a html and javascript file, as well as bootstrap, jquery, moment.js, and the OpenWeather api. I also utilized mdbootstrap for added animations and color schemes.
+This application functions off a html and javascript file, as well as bootstrap, jquery, moment.js, and the OpenWeather api. I also utilized mdbootstrap for added animations and color schemes. Simply click the link underneath the screenshots in the Usage Demo section and you'll be taken to the application. Enter in a city anywhere in the United States in the search bar, click search, and then current and future weather data will be dynamically populated!
 
 
 
